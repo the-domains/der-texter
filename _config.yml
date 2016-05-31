@@ -1,0 +1,14 @@
+layout_spectrum: 0.6143958836328238
+typography_spectrum: 0.628891643602401
+color:
+  brandStrength: 0.07360293157398701
+  lightness: 0.05734108109027147
+  saturation: 0.6309455332811922
+  rhythmicContrast: 0.7858860369306058
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Der Texter
